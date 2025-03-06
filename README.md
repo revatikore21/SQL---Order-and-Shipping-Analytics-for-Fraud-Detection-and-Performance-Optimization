@@ -1,4 +1,4 @@
-SQL - Order and Shipping Analytics for Fraud Detection and Performance Optimization
+SQL - Order and Shipping Analytics for Performance Optimization
 
 Project Overview
 This project involves analyzing orders and shipping data from two databases—commodity and supply—to extract valuable business insights. The project addresses various business challenges, such as transaction pattern identification, fraud detection, shipping performance evaluation, and order cancellation analysis.
